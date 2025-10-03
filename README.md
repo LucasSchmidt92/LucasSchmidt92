@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas  
 
 💻 Em transição para o mundo da programação  
-☕ Movido a café, chimarrão e curiosidade  
+☕ Combustível: café, chimarrão e curiosidade infinita  
 🎮 Apaixonado por tecnologia, cultura geek e aprendizado constante  
 
 ---
@@ -28,4 +28,19 @@
 
 ---
 
-✨ *"Movido a chimarrão, café e linhas de código."*
+## 🌐 Onde me encontrar  
+<p>
+  <a href="https://www.linkedin.com/in/lucas-schmidt-4356a4122/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/lucasschmidt92">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:lucas_schmidt922@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ "Sempre aprendendo, sempre evoluindo."
